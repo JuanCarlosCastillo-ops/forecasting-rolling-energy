@@ -1,0 +1,8 @@
+﻿__pycache__/
+*.pyc
+.env
+.venv/
+resultados_final_v2/
+resultados_tabnet_SOLO/
+figuras_INGENIUS/
+*.zip
