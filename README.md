@@ -128,3 +128,6 @@ Vaswani, A. et al. (2017). Attention is All You Need.
 Chen, T. & Guestrin, C. (2016). XGBoost: A Scalable Tree Boosting System.
 
 Castillo, J.C., Castillo, J.N., Pezantes, G. (2025). Comparación de modelos boosting y tabulares en la predicción de demanda energética multihorizonte con validación rolling windows. Universidad Técnica de Cotopaxi.
+
+
+Este proyecto simboliza la búsqueda constante de precisión y comprensión en los sistemas energéticos. Aunque es solo un fragmento dentro del vasto campo del aprendizaje automático, refleja la convicción de que cada avance, por pequeño que parezca, impulsa a la ciencia un paso más adelante.
