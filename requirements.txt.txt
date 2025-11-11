@@ -1,0 +1,18 @@
+# Core
+numpy>=1.24,<2.0
+pandas>=2.0,<3.0
+tqdm>=4.66
+scikit-learn>=1.3,<1.6
+
+# Modelos árbol
+xgboost>=2.0,<2.1
+
+# Deep tabular
+torch>=2.2,<2.4
+pytorch-tabnet>=4.1
+
+# Visualización (figuras editoriales)
+matplotlib>=3.8,<3.10
+
+# Utilidades
+joblib>=1.3,<1.5
